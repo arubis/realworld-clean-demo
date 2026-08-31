@@ -72,3 +72,6 @@ Run the following command to:
 ```shell
 npm ci && npx prisma migrate deploy && node dist/api/main.js
 ```
+
+
+<!-- Security scan triggered at 2026-08-31 17:00:20 -->
